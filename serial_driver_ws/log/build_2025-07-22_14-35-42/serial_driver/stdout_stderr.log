@@ -1,0 +1,40 @@
+running egg_info
+creating ../../build/serial_driver/serial_driver.egg-info
+writing ../../build/serial_driver/serial_driver.egg-info/PKG-INFO
+writing dependency_links to ../../build/serial_driver/serial_driver.egg-info/dependency_links.txt
+writing entry points to ../../build/serial_driver/serial_driver.egg-info/entry_points.txt
+writing requirements to ../../build/serial_driver/serial_driver.egg-info/requires.txt
+writing top-level names to ../../build/serial_driver/serial_driver.egg-info/top_level.txt
+writing manifest file '../../build/serial_driver/serial_driver.egg-info/SOURCES.txt'
+reading manifest file '../../build/serial_driver/serial_driver.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/serial_driver/serial_driver.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/submj/Desktop/serial_driver/serial_driver_ws/build/serial_driver/build
+creating /home/submj/Desktop/serial_driver/serial_driver_ws/build/serial_driver/build/lib
+creating /home/submj/Desktop/serial_driver/serial_driver_ws/build/serial_driver/build/lib/serial_driver
+copying serial_driver/__init__.py -> /home/submj/Desktop/serial_driver/serial_driver_ws/build/serial_driver/build/lib/serial_driver
+copying serial_driver/serial_node.py -> /home/submj/Desktop/serial_driver/serial_driver_ws/build/serial_driver/build/lib/serial_driver
+running install
+running install_lib
+creating /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/lib/python3.10/site-packages/serial_driver
+copying /home/submj/Desktop/serial_driver/serial_driver_ws/build/serial_driver/build/lib/serial_driver/__init__.py -> /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/lib/python3.10/site-packages/serial_driver
+copying /home/submj/Desktop/serial_driver/serial_driver_ws/build/serial_driver/build/lib/serial_driver/serial_node.py -> /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/lib/python3.10/site-packages/serial_driver
+byte-compiling /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/lib/python3.10/site-packages/serial_driver/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/lib/python3.10/site-packages/serial_driver/serial_node.py to serial_node.cpython-310.pyc
+running install_data
+creating /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/share/ament_index
+creating /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/share/ament_index/resource_index
+creating /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/share/ament_index/resource_index/packages
+copying resource/serial_driver -> /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/share/ament_index/resource_index/packages
+copying /home/submj/Desktop/serial_driver/serial_driver_ws/src/serial_driver/package.xml -> /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/share/serial_driver
+creating /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/share/serial_driver/config
+copying config/serial_config.yaml -> /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/share/serial_driver/config
+creating /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/share/serial_driver/launch
+copying launch/serial_launch.launch.py -> /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/share/serial_driver/launch
+running install_egg_info
+Copying ../../build/serial_driver/serial_driver.egg-info to /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/lib/python3.10/site-packages/serial_driver-0.0.0-py3.10.egg-info
+running install_scripts
+Installing serial_node script to /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/lib/serial_driver
+writing list of installed files to '/home/submj/Desktop/serial_driver/serial_driver_ws/build/serial_driver/install.log'

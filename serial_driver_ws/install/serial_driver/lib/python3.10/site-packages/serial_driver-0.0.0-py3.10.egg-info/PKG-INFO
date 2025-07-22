@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: serial-driver
+Version: 0.0.0
+Summary: ROS2 serial communication driver with pub/sub
+Home-page: UNKNOWN
+Maintainer: submj
+Maintainer-email: submj@todo.todo
+License: Apache-2.0
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+

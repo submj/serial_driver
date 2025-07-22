@@ -1,0 +1,28 @@
+[1.501s] Invoking command in '/home/submj/Desktop/serial_driver/serial_driver_ws/src/serial_driver': PYTHONPATH=/home/submj/Desktop/serial_driver/serial_driver_ws/build/serial_driver/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/serial_driver build --build-base /home/submj/Desktop/serial_driver/serial_driver_ws/build/serial_driver/build install --record /home/submj/Desktop/serial_driver/serial_driver_ws/build/serial_driver/install.log --single-version-externally-managed install_data
+[1.980s] running egg_info
+[1.985s] writing ../../build/serial_driver/serial_driver.egg-info/PKG-INFO
+[1.986s] writing dependency_links to ../../build/serial_driver/serial_driver.egg-info/dependency_links.txt
+[1.986s] writing entry points to ../../build/serial_driver/serial_driver.egg-info/entry_points.txt
+[1.986s] writing requirements to ../../build/serial_driver/serial_driver.egg-info/requires.txt
+[1.986s] writing top-level names to ../../build/serial_driver/serial_driver.egg-info/top_level.txt
+[1.994s] reading manifest file '../../build/serial_driver/serial_driver.egg-info/SOURCES.txt'
+[1.994s] adding license file 'LICENSE'
+[1.996s] writing manifest file '../../build/serial_driver/serial_driver.egg-info/SOURCES.txt'
+[1.996s] running build
+[1.996s] running build_py
+[1.996s] copying serial_driver/serial_node.py -> /home/submj/Desktop/serial_driver/serial_driver_ws/build/serial_driver/build/lib/serial_driver
+[1.997s] running install
+[1.998s] running install_lib
+[2.000s] copying /home/submj/Desktop/serial_driver/serial_driver_ws/build/serial_driver/build/lib/serial_driver/serial_node.py -> /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/lib/python3.10/site-packages/serial_driver
+[2.001s] byte-compiling /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/lib/python3.10/site-packages/serial_driver/serial_node.py to serial_node.cpython-310.pyc
+[2.003s] running install_data
+[2.003s] copying /home/submj/Desktop/serial_driver/serial_driver_ws/src/serial_driver/package.xml -> /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/share/serial_driver
+[2.003s] copying config/serial_config.yaml -> /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/share/serial_driver/config
+[2.004s] copying launch/serial_launch.launch.py -> /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/share/serial_driver/launch
+[2.004s] running install_egg_info
+[2.009s] removing '/home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/lib/python3.10/site-packages/serial_driver-0.0.0-py3.10.egg-info' (and everything under it)
+[2.010s] Copying ../../build/serial_driver/serial_driver.egg-info to /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/lib/python3.10/site-packages/serial_driver-0.0.0-py3.10.egg-info
+[2.011s] running install_scripts
+[2.053s] Installing serial_node script to /home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/lib/serial_driver
+[2.054s] writing list of installed files to '/home/submj/Desktop/serial_driver/serial_driver_ws/build/serial_driver/install.log'
+[2.146s] Invoked command in '/home/submj/Desktop/serial_driver/serial_driver_ws/src/serial_driver' returned '0': PYTHONPATH=/home/submj/Desktop/serial_driver/serial_driver_ws/build/serial_driver/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/submj/Desktop/serial_driver/serial_driver_ws/install/serial_driver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/serial_driver build --build-base /home/submj/Desktop/serial_driver/serial_driver_ws/build/serial_driver/build install --record /home/submj/Desktop/serial_driver/serial_driver_ws/build/serial_driver/install.log --single-version-externally-managed install_data

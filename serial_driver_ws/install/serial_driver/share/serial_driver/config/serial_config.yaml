@@ -1,0 +1,5 @@
+/serial_node:  
+  ros__parameters:
+    port_name: "/dev/ttyCH343USB0"
+    baudrate: 115200
+    timeout: 1000  
